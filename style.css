@@ -1,14 +1,20 @@
 
 
  
+body,html{
+    background-color: black;
+
+}
 .landingpage{
-    background-image: url("images/pizzahomepage.jpg");
+    background-image: url("ivan-torres-MQUqbmszGGM-unsplash.jpg");
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     height: 600px
     
 
 }
-.pizzeria{
+.pizzainn{
     padding-top: 40px;
     font-family: 'Courgette', cursive;
     font-size: 40px;
